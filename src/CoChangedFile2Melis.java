@@ -5,5 +5,6 @@ public class CoChangedFile2Melis {
         System.out.println("co changed file 2");
         System.out.println("co changed file 2 hello");
         System.out.println("co changed file 2 deneme");
+        System.out.println("co changed file 2 only file 2 changed");
     }
 }
