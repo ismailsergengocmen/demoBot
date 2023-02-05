@@ -4,5 +4,6 @@ public class trash {
     System.out.println("I am trash");
     System.out.println("I am trash");
     System.out.println("I am trash");
+    System.out.println("I am trash");
   }
 }
