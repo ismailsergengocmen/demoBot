@@ -1,6 +1,6 @@
 package src;
 
-public class BugFrequencyFile1Ezgi {
+public class empty1 {
 
     public static void main(String[] args) {
 
